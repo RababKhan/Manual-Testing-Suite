@@ -1,0 +1,50 @@
+Bug Title
+[Provide a concise, descriptive title for the bug]
+Description
+Observation
+[Describe what you observed that indicates a bug]
+Steps to Reproduce
+
+[Step 1]
+[Step 2]
+[Step 3]
+...
+
+Actual Result
+[Describe what actually happened]
+Acceptance Criteria
+[Describe what should have happened]
+API Details (if applicable)
+
+URL: [The API endpoint URL]
+Method: [GET/POST/PUT/DELETE/etc.]
+Status Code: [The HTTP status code received]
+
+Request Payload
+{
+"key": "value"
+}
+API Response
+{
+"key": "value"
+}
+Attachment
+[Include a link to or description of any attached images or videos]
+Bug Priority
+
+ Low
+ Medium
+ High
+ Critical
+
+Ticket Status
+
+ Open
+ In Progress
+ Resolved
+ Closed
+
+Assignee
+[Name or GitHub username of the person assigned to this bug]
+Business Impact Value
+[Describe the potential impact on business operations or user experience]
